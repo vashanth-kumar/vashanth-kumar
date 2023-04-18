@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vashantha-kumar-k-s-68407723b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vashantha-kumar-k-s-68407723b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vashantha-kumar-k-s-68407723b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vashantha-kumar-k-s-68407723b/" height="30" width="40" /></a>
 <a href="https://instagram.com/vashanth_shanmugam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vashanth_shanmugam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@VK_Education" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://t.me/c/1715990107/118" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@vashanthk662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vashanthk662" height="30" width="40" /></a>
