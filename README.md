@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Kivy Tkinter**
 
-- 📝 I regularly write articles on [https://vkeducation-tamil.blogspot.com/](https://vkeducation-tamil.blogspot.com/)
+- 📝 I regularly write articles on [vk-education-tech.blogspot.com/](https://vk-education-tech.blogspot.com/)
 
 - 💬 Ask me about **Python C**
 
